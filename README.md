@@ -1,7 +1,5 @@
 # Não decidido 
 
-![Capa do Projeto](https://picsum.photos/850/280)
-
 # Sobre o Projeto
 
 Não decidido 
