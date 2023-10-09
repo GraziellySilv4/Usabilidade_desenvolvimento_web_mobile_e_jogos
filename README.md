@@ -1,15 +1,10 @@
-# Título do Projeto
-
+# Não decidido 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+Não decidido 
 
 # Índice/Sumário
 
@@ -25,8 +20,8 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
+- [ ] **Cadastrar Usuário**
+- [ ] **Fazer Login**
 - [ ] Matricular em Curso
 - [ ] Cancelar Matricula
 - [ ] Visualizar Notas
@@ -34,24 +29,22 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+Nenhuma ainda
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+N/A
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Grazielly da Silva 1292214785,
+João Pedro Evaldt Ritter 1292214539,
+Henrique Goulart Inácio 1292215616
+Kauã Marcelo Lopes Reinaldo 1292213806
+Marcio Rodrigues Dornelles Filho 1292215804
+Nicolas 
 
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+N/A
